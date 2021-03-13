@@ -1,0 +1,11 @@
+C:\Users\Seekk\source\repos\baborant\bin\Debug\baborant.exe.config
+C:\Users\Seekk\source\repos\baborant\bin\Debug\baborant.exe
+C:\Users\Seekk\source\repos\baborant\bin\Debug\baborant.pdb
+C:\Users\Seekk\source\repos\baborant\obj\Debug\baborant.csprojAssemblyReference.cache
+C:\Users\Seekk\source\repos\baborant\obj\Debug\baborant.Properties.Resources.resources
+C:\Users\Seekk\source\repos\baborant\obj\Debug\baborant.csproj.GenerateResource.cache
+C:\Users\Seekk\source\repos\baborant\obj\Debug\baborant.csproj.CoreCompileInputs.cache
+C:\Users\Seekk\source\repos\baborant\obj\Debug\baborant.exe
+C:\Users\Seekk\source\repos\baborant\obj\Debug\baborant.pdb
+C:\Users\Seekk\source\repos\baborant\obj\Debug\baborant.chatwindow.resources
+C:\Users\Seekk\source\repos\baborant\obj\Debug\baborant.serverwindow.resources
